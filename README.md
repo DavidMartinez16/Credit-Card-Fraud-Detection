@@ -22,7 +22,7 @@ _It is important that credit card companies are able to recognize fraudulent cre
 
 ## Exploratory Data Analysis (EDA)
 
-First, I plotted the numbers of instances per clas in order to know how to handle the data. In this case, I found a very serious imbalance class problem, whereas for normal transactions there were 284315 instances and for the fraud transactions there were only 492 instances.
+First, I plotted the numbers of instances per class in order to know how to handle the data. In this case, I found a very serious imbalance class problem, whereas for normal transactions there were 284315 instances and for the fraud transactions there were only 492 instances.
 
 ![classes](https://user-images.githubusercontent.com/63115543/92504259-05b93b00-f1c8-11ea-87b0-e1b87b5c38e4.jpg)
 
