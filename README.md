@@ -10,7 +10,7 @@ _It is important that credit card companies are able to recognize fraudulent cre
 * Isolation Forest detected 57 errors versus Local Outlier Factor detecting 97 errors vs. SVM detecting 1420 errors
 * When comparing error precision & recall for the 3 models , the Isolation Forest performed much better than the LOF and SVM with 42 % against 2% (LOF) and 3% (SVM).
 * In order to improve the performance of the models you can use:
-   * Deep Learning Models to detect more accurately fraud transictions
+   * Deep Learning Models to detect more accurately fraud transactions
    * More complex models of anomaly detection
    * Use more samples of the fraud class, in this case there was a serious imbalance class problem and that is why the models are not the best.
 
