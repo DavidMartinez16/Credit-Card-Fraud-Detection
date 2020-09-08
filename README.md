@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection: Project Overview
 
-_It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. This is a machine learning project that uses some anomaly detection algorithms in order to classigy fraud and normal transactions._
+_It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase. This is a machine learning project that uses some anomaly detection algorithms in order to classify fraud and normal transactions._
 
 ## General Information
 * [Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) - The dataset was downloaded in the Kaggle Repository.
