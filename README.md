@@ -45,7 +45,19 @@ _t-distributed Stochastic Neighbor Embedding (t-SNE). Is a tool to visualize hig
 
 ![tsne](https://user-images.githubusercontent.com/63115543/92504987-08686000-f1c9-11ea-8987-0f92b832490d.jpg)
 
-## Model Performance
+## Using Deep Learning to Classify the Credit Card Transactions
+
+_By using Convolutional Neural Network and Balancing the Classes using undersampling for the Fraud Class, I got a tetsing accuracy 0f 89 %._
+
+The Training Curve of the model for the accuracy is the following
+
+![cnnacc](https://user-images.githubusercontent.com/63115543/93691244-29be2b80-faa8-11ea-964a-24d245d37e75.jpg)
+
+And the Confusion Matrix for the testing set, with 176 instances predicted correctly and only 21 incorrectly.
+
+![cm](https://user-images.githubusercontent.com/63115543/93691261-5c682400-faa8-11ea-86ac-36cf16b3e273.jpg)
+
+## Machine Learning Models Performance
 
 The following are the classification reports for each model:
 
@@ -65,3 +77,5 @@ The following are the classification reports for each model:
 * **Macro F1 Score:** 52%
 
 As you can see, the model with the best performance is the Isolation Forest, in order to improve the classification problem you can use more complex anomaly detection models or deep learning models.
+
+
