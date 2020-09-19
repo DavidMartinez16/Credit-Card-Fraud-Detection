@@ -5,7 +5,7 @@ _It is important that credit card companies are able to recognize fraudulent cre
 ## General Information
 * [Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) - The dataset was downloaded in the Kaggle Repository.
 * Created a machine learning models that is capable of detect whether a transaction is normal or fraudulent,by analyzing different transaction features, the time between transactions, the amount of money, among others.
-* Created a Deep Neural Network to classify he credit card transactions, getting an accuracy of 90 %.
+* Created a Deep Neural Network to classify the credit card transactions, getting an accuracy of 90 %.
 * Used some visualization techniques to visualize the data. Also, by Exploratory Data Analysis, I found the most relevant features to classify transactions.
 * Isolation Forest is the model with the best performance, with the highest accuracy
 * Isolation Forest detected 57 errors versus Local Outlier Factor detecting 97 errors vs. SVM detecting 1420 errors
