@@ -76,6 +76,6 @@ The following are the classification reports for each model:
 * **Precision Detecting Fraud Class:** 3%
 * **Macro F1 Score:** 52%
 
-As you can see, the model with the best performance is the Isolation Forest, in order to improve the classification problem you can use more complex anomaly detection models or deep learning models.
+As you can see, the CNN has a very good performance with a high accuracy value, and the Machine Learning model with the best performance is the Isolation Forest, in order to improve the classification problem you can use more complex anomaly detection models or more complex Neural Networks.
 
 
